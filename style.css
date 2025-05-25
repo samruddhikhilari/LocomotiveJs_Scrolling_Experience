@@ -51,7 +51,7 @@ html,body{
 #yellow1{
     width: 100%;
     height: 100vh;
-    background-color: yellow;
+    background-color: rgba(0, 0, 255, 0.55);
     position: absolute;
     z-index: 7;
 }
@@ -79,7 +79,7 @@ html,body{
 #page1{
     width: 100%;
     height: 100vh;
-    background-color: yellow;
+    background-color: pink;
     display: flex;
     align-items: center;
     justify-content: center;
